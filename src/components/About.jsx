@@ -35,7 +35,7 @@ export default function About() {
           ferramentas de baixo código para agilizar o processo de
           desenvolvimento. Tenho experiência em diversas linguagens de
           programação, além de familiaridade com plataformas no-code como Bubble
-          e Webflow. 
+          e NodeRed.
         </p>
 
         <br />
@@ -57,3 +57,4 @@ export default function About() {
     </section>
   );
 }
+
